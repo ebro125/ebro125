@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Ekak
- 👀 I’m interested in C,C++,ML,AI,Javascript,ReactJs,Java
+ 👀 I’m interested in Javascript, ReactJs, Node Js, Mongo DB, ML, AI, C/C++
 
   🌱 I’m currently learning web development
 
